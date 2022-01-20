@@ -5,6 +5,9 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
 
+    public Sprite[] JellySpriteList;
+    public string[] JellyNameList;
+    public int[] JellyJellatinList;
     public int[] JellyGoldList;
 
     public Vector3[] PointList;
